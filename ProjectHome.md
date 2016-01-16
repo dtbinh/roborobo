@@ -1,0 +1,3 @@
+Roborobo! is a fast and simple 2D mobile robot simulator written in C++ based on a khepera/epuck model. It is targeted for fast single and multi-robots simulation (primary motivation is Evolutionary Robotics and Swarm Robotics).
+
+Please cite the following paper if you use Roborobo! for your work: _N. Bredeche, J.-M. Montanier, B. Weel, and E. Haasdijk. Roborobo! a fast robot simulator for swarm and collective robotics. CoRR, abs/1304.2888, 2013_. The paper is available on [Arxiv](http://arxiv.org/abs/1304.2888).
